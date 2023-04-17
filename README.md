@@ -4,4 +4,4 @@ Welcome to the Heart Plugin GitBook Docs. In case you are seeing this from githu
 
 {% embed url="https://www.youtube.com/watch?v=HSRANNvY3jI" %}
 
-Heart Plugin must be compiles from source, available from GitHub at: [https://github.com/Drakynfly/HeartGraph](https://github.com/Drakynfly/HeartGraph)
+Heart Plugin must be compiled from source, available from GitHub at: [https://github.com/Drakynfly/HeartGraph](https://github.com/Drakynfly/HeartGraph)
